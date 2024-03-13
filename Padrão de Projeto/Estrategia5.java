@@ -60,8 +60,5 @@ public class Estrategia5 implements EstrategiaMenu {
         }
 
         imprimirRecursoEducacional(caminhoDoArquivo);
-
-        scan.close();
-
     }
 }
