@@ -43,8 +43,5 @@ public class Estrategia2 implements EstrategiaMenu{
         } else {
             System.out.println("Número de animal inválido.");
         }
-
-        scan.close();
-
     }
 }
