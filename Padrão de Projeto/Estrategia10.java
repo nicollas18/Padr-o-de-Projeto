@@ -21,7 +21,7 @@ public class Estrategia10 implements EstrategiaMenu {
             int input = scan.nextInt();
 
             if (input == 4) {
-                break;
+                return;
             }
 
             switch (input) {
