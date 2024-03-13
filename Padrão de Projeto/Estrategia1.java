@@ -18,7 +18,7 @@ public class Estrategia1 implements EstrategiaMenu {
             int opcaoAnimal = scan.nextInt();  
 
             if (opcaoAnimal == 3) {
-                break;
+                return;
             }
 
             switch (opcaoAnimal) {
