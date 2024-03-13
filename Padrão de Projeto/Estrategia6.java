@@ -45,9 +45,6 @@ public class Estrategia6 implements EstrategiaMenu {
                     
             }
         }
-
-        scan.close();
-
     }
     
 }
