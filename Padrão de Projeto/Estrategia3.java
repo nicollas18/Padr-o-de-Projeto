@@ -20,7 +20,7 @@ public class Estrategia3 implements EstrategiaMenu {
             int opcaoPesquisa = scan.nextInt();  
 
             if (opcaoPesquisa == 4) {
-                break;
+                return;
             }
 
             switch (opcaoPesquisa) {
