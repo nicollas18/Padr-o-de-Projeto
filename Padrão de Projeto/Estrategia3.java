@@ -83,7 +83,5 @@ public class Estrategia3 implements EstrategiaMenu {
                     break;
             }
         }
-
-        scan.close();
     }
 }
