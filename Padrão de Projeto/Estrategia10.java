@@ -52,7 +52,5 @@ public class Estrategia10 implements EstrategiaMenu {
                     break; 
             }
         }
-
-        scan.close();
     }   
 }
