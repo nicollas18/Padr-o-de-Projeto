@@ -18,7 +18,7 @@ public class Estrategia6 implements EstrategiaMenu {
             int input = scan.nextInt(); 
 
             if (input == 3) {
-                break;
+                return;
             }
 
             switch (input) {
