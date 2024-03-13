@@ -36,7 +36,5 @@ public class Estrategia9 implements EstrategiaMenu {
                     break;
             }
         }
-
-        scan.close();
     }
 }
