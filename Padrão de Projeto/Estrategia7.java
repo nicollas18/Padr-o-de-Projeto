@@ -82,10 +82,7 @@ public class Estrategia7 implements EstrategiaMenu{
                     System.out.println("Opcao Invalida.");
                     break;
             }
-
-            scan.close();
-        }
-        
+        }    
     }
     
 }
