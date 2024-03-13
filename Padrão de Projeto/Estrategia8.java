@@ -18,7 +18,5 @@ public class Estrategia8 implements EstrategiaMenu {
 
         abrigoEscolhido.receberDoacao(valor);
         //System.out.println(abrigoEscolhido.getDoacoes());  
-
-        scan.close();
     }  
 }
